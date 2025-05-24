@@ -81,3 +81,4 @@ This module deals with the recognition of printed Malayalam (and English) text f
     ├── 📄 main.py
     └── 📄 README.md
 
+<pre><code>```markdown 📦 CDIT_Team2_Internship/ ├── 🌿 handwritten_ocr/ (branch: main) │ ├── Code/ │ ├── Dataset/ │ ├── model/ │ ├── Testing the Model/ │ └── README.md └── 🔀 printed_ocr/ (branch: Printed-Documents) ├── main.py └── README.md ```</code></pre>
