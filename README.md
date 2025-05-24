@@ -69,9 +69,9 @@ This module deals with the recognition of printed Malayalam (and English) text f
 ---
 
 ## 📂 Project Structure
-📦 CDIT_Team2_Internship/
-  **├── handwritten_ocr/ 🌿 main**
-  **│   ├── Code/**
+**📦 CDIT_Team2_Internship/**
+**├── handwritten_ocr/ 🌿 main**
+**│   ├── Code/**
   **│   ├── Dataset/**
   **│   ├── model/**
   **│   ├── Testing the Model/**
