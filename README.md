@@ -70,7 +70,7 @@ This module deals with the recognition of printed Malayalam (and English) text f
 
 ## 📂 Project Structure
 
-<pre>```📦 **CDIT_Team2_Internship/**
+<pre>📦 **CDIT_Team2_Internship/**
 ├── 🌿 **handwritten_ocr/** *(branch: `main`)*
 │   ├── 📁 Code/
 │   ├── 📁 Dataset/
@@ -80,4 +80,4 @@ This module deals with the recognition of printed Malayalam (and English) text f
 └── 🔀 **printed_ocr/** *(branch: `Printed-Documents`)*
 ├── 📄 main.py
 └── 📄 README.md
-```</pre>
+</pre>
